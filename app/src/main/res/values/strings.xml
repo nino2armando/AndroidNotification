@@ -8,7 +8,7 @@
     <string name="dummy_content">Press Button to Send Notifications</string>
     <string name="newMessage">New Message</string>
     <string name="messageContent">This is the content of the notification...</string>
-    <string name="messageTicker">Update Message Alert!</string>
+    <string name="messageTicker">Message Alert!</string>
     <string name="detailedNotification">Dtetailed Notification goes here...</string>
     <string name="updateMessage">Update Message</string>
     <string name="updateMessageContent">Update Message Content</string>
