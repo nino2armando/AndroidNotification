@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidNotifications</string>
+    <string name="send_button">Send</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="update_button">Update</string>
+    <string name="dummy_content">Press Button to Send Notifications</string>
+    <string name="newMessage">New Message</string>
+    <string name="messageContent">This is the content of the notification...</string>
+    <string name="messageTicker">Update Message Alert!</string>
+    <string name="detailedNotification">Dtetailed Notification goes here...</string>
+    <string name="updateMessage">Update Message</string>
+    <string name="updateMessageContent">Update Message Content</string>
+
+</resources>
